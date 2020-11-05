@@ -1,0 +1,3 @@
+import subprocess
+
+subprocess.Popen(["#!//Users/skylerbang/venv/bin/python", "test.py"])
