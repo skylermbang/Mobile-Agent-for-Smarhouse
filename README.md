@@ -72,5 +72,5 @@ https://www.xjtlu.edu.cn/zh/news/2018/12/2018dianqixihaibaozhan
 
 
  
-6. Thesis : 
+6. Thesis Paper : 
 https://1drv.ms/b/s!AtERkDeVL_bBge54d57-4ly-pugTmw?e=1NzceH
