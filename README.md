@@ -48,26 +48,25 @@ https://www.xjtlu.edu.cn/zh/news/2018/12/2018dianqixihaibaozhan
 4. Skills
 
      
-    | Software  |   |   
-    |---|---|
-    | Python |   |    
+    | Software  |   
+    |---|
+    | Python |      
     | CNN |  |     
-    |  Tensorflow |   |  
-    |  IFTTT |   |  
-    |  (C++) Arduino |   |  
+    |  Tensorflow |   
+    |  IFTTT |    
+    |  (C++) Arduino |   
 
     
     
     
-    | Hardware |   |   
-    |---|---|
-    | Arduino Mega|   |    
-    | Raspberry  Pi3 B|  |     
-    |  MotorShield |   |  
-    |  Sound Sensor  |   |  
-    |  Ultrasonic Sensor |   |  
-    |  Micriphone |   |  
-
+    | Hardware |    
+    |---|
+    | Arduino Mega|   
+    | Raspberry  Pi3 B|    
+    |  MotorShield |   
+    |  Sound Sensor  |   
+    |  Ultrasonic Sensor |   
+    |  Micriphone |   
 5. Demo video
 
 
